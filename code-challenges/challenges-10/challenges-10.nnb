@@ -24,7 +24,7 @@
         {
             "language": "javascript",
             "source": [
-                ""
+                "function birthdayCakeCandles(candles) {\n    // Write your code here\n    let counter=0;\n    let bigCandle=candles[0];\nfor(let i =0;i<candles.length;i++){\n    if (candles[i]>=bigCandle){\n      bigCandle=candles[i];\n    }\n}\nfor(let i =0;i<candles.length;i++){\n  if (candles[i]===bigCandle){\n    counter++;\n  }\n}  \nreturn counter;\n}"
             ],
             "outputs": []
         },

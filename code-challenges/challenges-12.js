@@ -9,7 +9,7 @@
 // Challenge 01:
 // Required:
 // 
-// Given an array of values use filter to extract odd values.
+// Given an array of    values use filter to extract odd values.
 //  
 // Input:
 // [20, 54, 89, 41, 2, 31, 111, 15, 0, 31, 200] 
